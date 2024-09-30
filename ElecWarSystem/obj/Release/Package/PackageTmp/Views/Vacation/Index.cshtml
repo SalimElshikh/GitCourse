@@ -1,0 +1,136 @@
+﻿<script src="~/Scripts/TmamScripts/vacation-crud.js"></script>
+@{
+    int j;
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/tmam_layout.cshtml";
+}
+@using ElecWarSystem.Models
+<!-- عنوان الجدول -->
+<h2 class="text-center my-4" style="color: #004da0; font-weight: bold;">إدارة الأجازات</h2>
+
+<!-- عداد الإجازات -->
+<p id="vacation-counter" class="text-center text-secondary" style="font-size: 20px; font-weight: bold;">
+    @ViewBag.VacationEntered / @ViewBag.VacationTotal
+</p>
+
+<!-- زر إضافة إجازة -->
+<div class="container my-4">
+    <div class="row justify-content-center">
+        <button id="add-vacation-btn" class="btn btn-lg" style="background-color: #004da0; color: #fff; font-size: 18px; border-radius: 8px;" onclick="openVacationPopup()">
+            <i class="fas fa-plus-circle"></i> إضافة أجازة
+        </button>
+    </div>
+
+    <!-- جدول الإجازات -->
+    <div class="row mt-4">
+        <div class="col-lg-12">
+            <div class="table-responsive shadow-lg" style="border-radius: 12px;">
+                <table class="table table-bordered" id="vacations-table" style="border-radius: 12px; overflow: hidden;">
+                    <thead style="background-color: #004da0; color: #fff;">
+                        <tr>
+                            <th style="width: 5%; text-align: center;">م</th>
+                            <th style="width: 20%; text-align: center;">الرتبة / الدرجة</th>
+                            <th style="width: 25%; text-align: center;">الإسم</th>
+                            <th style="width: 20%; text-align: center;">نوع الأجازة</th>
+                            <th style="width: 15%; text-align: center;">بدء الأجازة</th>
+                            <th style="width: 15%; text-align: center;">عودة الأجازة</th>
+                            <th style="width: 10%; text-align: center;">الإجراءات</th>
+                        </tr>
+                    </thead>
+                    <tbody style="font-size: 16px;">
+                        @{
+                            j = 1;
+                        }
+                        @foreach (Vacation Vacation in ViewBag.Vacations)
+                        {
+                            <tr>
+                                <td style="text-align: center;">@j</td>
+                                <td style="text-align: center;">@Vacation.VacationDetail.Person.Rank.RankName</td>
+                                <td style="text-align: center;">@Vacation.VacationDetail.Person.FullName</td>
+                                <td style="text-align: center;">@Vacation.VacationDetail.VacationType</td>
+                                <td style="text-align: center;">@Vacation.VacationDetail.DateFrom.ToString("yyyy-MM-dd")</td>
+                                <td style="text-align: center;">@Vacation.VacationDetail.DateTo.ToString("yyyy-MM-dd")</td>
+                                <td style="text-align: center;">
+                                    <!-- زر الحذف -->
+                                    <button class="btn btn-outline-danger btn-sm rounded-circle" onclick="deleteVacation(@Vacation.ID)">
+                                        <i class="fas fa-trash-alt"></i>
+                                    </button>
+                                </td>
+                            </tr>
+                            j++;
+                        }
+                        @if (j == 1)
+                        {
+                            <tr>
+                                <td colspan="7" class="text-center text-muted">لا توجد أجازات مسجلة.</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="vacationModal" tabindex="-1" aria-labelledby="vacationModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content shadow-lg rounded-3">
+            <div class="modal-header bg-primary text-white">
+                <h5 class="modal-title fw-bold" id="vacationModalLabel">إضافة أجازة</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <!-- الرتبة/الدرجة -->
+                    <div class="mb-3">
+                        @Html.Label("الرتبة/الدرجة", htmlAttributes: new { @class = "form-label fw-bold" })
+                        @Html.DropDownList("person-rank", new SelectList(ViewBag.ranks, "ID", "RankName"), new { @class = "form-select", @id = "person-rank", @onchange = "UpdatePersonComboBox()" })
+                    </div>
+
+                    <!-- الإسم -->
+                    <div class="mb-3">
+                        @Html.Label("الإسم", htmlAttributes: new { @class = "form-label fw-bold" })
+                        <select name="person-name" class="form-select" id="person-name" onchange="disableBtn()">
+                            <option></option>
+                        </select>
+                    </div>
+
+                    <!-- نوع الأجازة -->
+                    <div class="mb-3">
+                        @Html.Label("نوع الأجازة", htmlAttributes: new { @class = "form-label fw-bold" })
+                        <select name="vacation-type" class="form-select" id="vacation-type" onchange="disableBtn()">
+                            <option></option>
+                            <option>عارضة</option>
+                            <option>بدل راحة</option>
+                            <option>راحة</option>
+                            <option>ميدانية</option>
+                            <option>سنوية</option>
+                            <option>منتظر النشرة</option>
+                            <option>معاش مبكر ومنتظر النشرة</option>
+                        </select>
+                    </div>
+
+                    <!-- تاريخ بدء الأجازة -->
+                    <div class="mb-3">
+                        @Html.Label("تاريخ بدء الأجازة", htmlAttributes: new { @class = "form-label fw-bold" })
+                        @Html.Editor("date-from", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "date-from", @onchange = "disableBtn()" } })
+                    </div>
+
+                    <!-- تاريخ عودة الأجازة -->
+                    <div class="mb-3">
+                        @Html.Label("تاريخ عودة الأجازة", htmlAttributes: new { @class = "form-label fw-bold" })
+                        @Html.Editor("date-to", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "date-to", @onchange = "disableBtn()" } })
+                    </div>
+
+                    <!-- زر حفظ -->
+                    <div class="d-grid">
+                        <button type="button" class="btn btn-success popup-submit-btn" disabled onclick="Add()">
+                            <i class="fas fa-save me-2"></i> حفظ
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

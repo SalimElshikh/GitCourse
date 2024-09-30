@@ -1,0 +1,60 @@
+﻿@{ 
+    Layout = "_Layout.cshtml";
+}
+<div>
+    <link rel="stylesheet" href="~/Content/UnitDataEntryStyle.css" />
+    <script src="~/Scripts/TmamScripts/TmamHelper.js"></script>
+    <div class="container">
+        <div class="row">
+            @{DateTime todayDate = DateTime.Today.Date;}
+            <div class="title-div col-lg-12 col-md-12 col-sm-12 col-xs-12" style="height:290px;">
+                <p style="font-size:45px; font-weight:bold;">@ViewBag.unitName</p>
+                <p>
+                    إدخال تمام الوحدة عن يوم @todayDate.ToString("dddd الموافق dd-MM-yyyy", new System.Globalization.CultureInfo("ar-AE"))
+                </p>
+
+                <p id="time" style="font-size:30px; font-weight:bold;">
+                    00:00:00
+                </p>
+                <p style="color:red;">الزمن المتبقى لإرسال التمام</p>
+                <div id="alertBox"></div>
+                
+
+            </div>
+
+            <nav aria-label="Page navigation" class="hide-after-send">
+                <ul class="pagination" style="font-size:18px;">
+                    <li>
+                        @Html.ActionLink("مراجعة التمام", "Review", "Tmam")
+                    </li>
+                    <li>
+                        @Html.ActionLink("غياب", "Index", "Absence")
+                    </li>
+                    <li>
+                        @Html.ActionLink("سجن", "Index", "Prison")
+                    </li>
+                    <li>
+                        @Html.ActionLink("المأموريات", "Index", "Errand")
+                    </li>
+                    <li>
+                        @Html.ActionLink("المستشفى", "Index", "Hospital")
+                    </li>
+                    <li>
+                        @Html.ActionLink("أجازة مرضية", "Index", "SickLeave")
+                    </li>
+                    <li>
+                        @Html.ActionLink("تمام الدرجات الأخرى", "Index", "Tmam", new { pg = 2 }, null)
+                    </li>
+                    <li>
+                        @Html.ActionLink("تمام الضباط", "Index", "Tmam", new { pg = 1 }, null)
+                    </li>
+                    <li>
+                        @Html.ActionLink("تمام القادة", "Index", "LeaderShip")
+                    </li>
+                </ul>
+            </nav>
+            @RenderBody()
+        </div>
+    </div>
+
+</div>

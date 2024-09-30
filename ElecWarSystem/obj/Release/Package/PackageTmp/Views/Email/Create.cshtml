@@ -1,0 +1,69 @@
+﻿@model  ElecWarSystem.ViewModel.EmailViewModel
+@using ElecWarSystem.Models
+@using ElecWarSystem.ViewModel;
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<link rel="stylesheet" href="~/Content/CreateEmailStyle.css" />
+<link href="~/Content/StyleCss/tabadol-file.css" rel="stylesheet" />
+<script type="text/javascript" src="~/Scripts/EmailsScript.js"></script>
+
+@using (Html.BeginForm("Create", "Email", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="p-5 rounded" style="background-color: #f5f5f5; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
+                    <h2 class="text-center mb-4" style="color: #333;">إنشاء بريد جديد</h2>
+
+                    @if (!Model.Message.Equals(""))
+                    {
+                        <div class="alert alert-danger text-center" role="alert">
+                            <i class="fas fa-exclamation-triangle"></i> @Model.Message
+                        </div>
+                    }
+
+                    <div class="form-group mb-4">
+                        @Html.Label("الموضوع", htmlAttributes: new { @class = "form-label", @style = "font-weight: bold; color: #333;" })
+                        @Html.EditorFor(model => model.Email.Subject, new { htmlAttributes = new { @class = "form-control", @style = "border-radius: 8px; border: 1px solid #ccc; padding: 10px;" } })
+                        @Html.ValidationMessageFor(model => model.Email.Subject, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group mb-4">
+                        @Html.Label("النص", htmlAttributes: new { @class = "form-label", @style = "font-weight: bold; color: #333;" })
+                        @Html.TextAreaFor(model => model.Email.EmailText, new { @class = "form-control", @rows = "6", @style = "border-radius: 8px; border: 1px solid #ccc; padding: 10px;" })
+                        @Html.ValidationMessageFor(model => model.Email.EmailText, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group mb-4">
+                        @Html.Label("أختر ملفات", htmlAttributes: new { @class = "form-label", @style = "font-weight: bold; color: #333;" })
+                        <div class="custom-file">
+                            <input type="file" id="files" multiple name="files" class="custom-file-input">
+                            <label class="custom-file-label" for="files">اختر ملفات...</label>
+                        </div>
+                        <small class="form-text text-muted text-right">الحجم الأقصى للملف 1 جيجابايت</small>
+                    </div>
+
+                    <div class="form-group mb-4">
+                        @Html.Label("مرسل إلى", htmlAttributes: new { @class = "form-label", @style = "font-weight: bold; color: #333;" })
+                        @Html.ListBoxFor(model => model.RecIds, new MultiSelectList(Model.Recievers, "RecId", "UnitName"), new { @multiple = "multiple", @class = "form-control", @style = "border-radius: 8px; border: 1px solid #ccc; height: 200px;" })
+                    </div>
+
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-block" style="background-color: #4CAF50; color: white; padding: 12px 20px; font-size: 16px; border-radius: 8px; border: none;">
+                            إرسال البريد
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<div class="text-center mt-3">
+    @Html.ActionLink("عودة للصفحة الرئيسية", "Index", null, new { @class = "btn btn-outline-secondary", @style = "border-radius: 8px; padding: 10px 20px;" })
+</div>

@@ -1,0 +1,101 @@
+﻿<script src="~/Scripts/TmamScripts/vacation-crud.js"></script>
+@{
+    int j;
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/tmam_layout.cshtml";
+}
+@using ElecWarSystem.Models
+<h2>الأجازات</h2>
+<p id="vacation-counter" style="margin:10px; font-size:18px;">@ViewBag.VacationEntered / @ViewBag.VacationTotal</p>
+<div class="name-div col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <div class="container">
+        <div class="row">
+            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <button id="add-vacation-btn" class="btn btn-primary" style="font-size:16px;" onclick="openVacationPopup()">
+                    <span class="glyphicon glyphicon-plus"></span>
+                    إضافة
+                </button>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <table class="table table-bordered" id="vacations-table">
+                    <tr>
+                        <th>م</th>
+                        <th>الرتبة / الدرجة</th>
+                        <th>الإسم </th>
+                        <th>نوع الأجازة</th>
+                        <th>بدء الأجازة</th>
+                        <th>عودة الأجازة</th>
+                        <th></th>
+                    </tr>
+                    @{
+                        j = 1;
+                    }
+                    <tbody style="font-size:14px;">
+                        @foreach (Vacation Vacation in ViewBag.Vacations)
+                        {
+                            <tr>
+                                <td>@j</td>
+                                <td>@Vacation.VacationDetail.Person.Rank.RankName</td>
+                                <td>@Vacation.VacationDetail.Person.FullName</td>
+                                <td>@Vacation.VacationDetail.VacationType</td>
+                                <td>@Vacation.VacationDetail.DateFrom.ToString("yyyy-MM-dd")</td>
+                                <td>@Vacation.VacationDetail.DateTo.ToString("yyyy-MM-dd")</td>
+                                <td>
+                                    <button class="btn btn-danger timeout-btn" onclick="deleteVacation(@Vacation.ID)">
+                                        حذف
+                                        <span class="glyphicon glyphicon-remove"></span>
+                                    </button>
+                                </td>
+                            </tr>
+                            j++;
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="popup vacation-popup">
+    <div class="close-btn" onclick="closePop()">&times;</div>
+    <div class="form">
+        <div class="form-group">
+            @Html.Label("الرتبة/الدرجة", htmlAttributes: new { @class = "control-label" })
+            @Html.DropDownList("person-rank", new SelectList(ViewBag.ranks, "ID", "RankName"), new { @class = "form-control", @id = "person-rank", @onchange = "UpdatePersonComboBox()" })
+        </div>
+        <div class="form-group">
+            @Html.Label("الإسم", htmlAttributes: new { @class = "control-label" })
+            <select name="person-name" class="form-control" id="person-name" onchange="disableBtn()">
+                <option></option>
+            </select>
+        </div>
+        <div class="form-group">
+            @Html.Label("نوع الأجازة", htmlAttributes: new { @class = "control-label" })
+            <select name="vacation-type" class="form-control" id="vacation-type" onchange="disableBtn()">
+                <option></option>
+                <option>عارضة</option>
+                <option>بدل راحة</option>
+                <option>راحة</option>
+                <option>ميدانية</option>
+                <option>سنوية</option>
+            </select>
+        </div>
+        <div class="form-group">
+            @Html.Label("تاريخ بدء الأجازة", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("date-from", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "date-from", @onchange = "disableBtn()" } })
+        </div>
+        <div class="form-group">
+            @Html.Label("تاريخ عودة الأجازة", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("date-to", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "date-to", @onchange = "disableBtn()" } })
+        </div>
+        <div class="form-group">
+            <button class="btn btn-success popup-submit-btn" disabled style="font-size:16px;" onclick="Add()">
+                <span class="glyphicon glyphicon-save"></span>
+                حفظ
+            </button>
+        </div>
+    </div>
+</div>
+
+

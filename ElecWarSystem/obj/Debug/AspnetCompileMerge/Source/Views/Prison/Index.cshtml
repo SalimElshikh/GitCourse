@@ -1,0 +1,119 @@
+﻿<script src="~/Scripts/TmamScripts/prison-crud.js"></script>
+@{
+    int j = 1;
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/tmam_layout.cshtml";
+}
+@using ElecWarSystem.Models
+<div class="container">
+    <div class="row">
+        <h2>السجن</h2>
+        <p id="prison-counter" style="margin:10px; font-size:18px;">@ViewBag.EnteredPrisons / @ViewBag.TotalPrisons</p>
+        <div class="name-div col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="container">
+                <div class="row">
+                    <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <button id="add-prison-btn" class="btn btn-primary" style="font-size:16px;" onclick="openPrisonPopup()">
+                            <span class="glyphicon glyphicon-plus"></span>
+                            إضافة
+                        </button>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <table class="table table-bordered" id="prison-table">
+                            <tr>
+                                <th>م</th>
+                                <th>الرتبة / الدرجة</th>
+                                <th>الإسم </th>
+                                <th>الجريمة</th>
+                                <th>العقوبة</th>
+                                <th>الآمر بالعقوبة</th>
+                                <th>مدة التنفذ من</th>
+                                <th>مدة التنفذ إلى</th>
+                                <th>مكان التنفيذ</th>
+                                <th colspan="2">بند الأوامر</th>
+                                <th></th>
+                            </tr>
+                            <tbody style="font-size:14px;">
+                                @foreach (Prison prison in ViewBag.prisonsList)
+                                {
+                                    <tr>
+                                        <td>@j</td>
+                                        <td>@prison.PrisonDetails.Person.Rank.RankName</td>
+                                        <td>@prison.PrisonDetails.Person.FullName</td>
+                                        <td>@prison.PrisonDetails.Crime</td>
+                                        <td>@prison.PrisonDetails.Punishment</td>
+                                        <td>@prison.PrisonDetails.Punisher</td>
+                                        <td>@prison.PrisonDetails.DateFrom.ToString("yyyy-MM-dd")</td>
+                                        <td>@prison.PrisonDetails.DateTo.ToString("yyyy-MM-dd")</td>
+                                        <td>@prison.PrisonDetails.PrisonPlace</td>
+                                        <td>@prison.PrisonDetails.CommandItem.Number</td>
+                                        <td>@prison.PrisonDetails.CommandItem.Date.ToString("yyyy/MM/dd")</td>
+                                        <td>
+                                            <button class="btn btn-danger" onclick="deletePrison(@prison.ID)">
+                                                حذف
+                                                <span class="glyphicon glyphicon-remove"></span>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                    j++;
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="popup prison-popup">
+    <div class="close-btn" onclick="closePop()">&times;</div>
+    <div class="form">
+        <div class="form-group" style="width: 30%; float: right;">
+            @Html.Label("الرتبة/الدرجة", htmlAttributes: new { @class = "control-label" })
+            @Html.DropDownList("person-rank", new SelectList(ViewBag.ranks, "ID", "RankName"), new { @class = "form-control", @id = "person-rank", @onchange = "UpdatePersonComboBox()" })
+        </div>
+        <div class="form-group" style="width:60%; float:right; margin-right:10%">
+            @Html.Label("الإسم", htmlAttributes: new { @class = "control-label" })
+            <select name="person-name" class="form-control" id="person-name" onchange="disableBtn()">
+                <option></option>
+            </select>
+        </div>
+        <div class="form-group">     
+            @Html.Label("الجريمة", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("crime", new { htmlAttributes = new { @class = "form-control", @id = "crime", @onkeyup = "disableBtn()" } })
+        </div>
+        </div>
+        <div class="form-group">
+            @Html.Label("العقوبة", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("punishment", new { htmlAttributes = new { @class = "form-control", @id = "punishment", @onkeyup = "disableBtn()" } })
+        </div>
+        <div class="form-group">
+            @Html.Label("الآمر بالعقوبة", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("punisher", new { htmlAttributes = new { @class = "form-control", @id = "punisher", @onkeyup = "disableBtn()" } })
+        </div>
+        <div class="form-group" style="width: 45%; float: right;">
+            @Html.Label("المدة التنفيذ من", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("date-from", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "date-from", @onchange = "disableBtn()" } })
+        </div>
+        <div class="form-group" style="width:45%; float:right; margin-right:10%">
+            @Html.Label("المدة التنفيذ إلى", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("date-to", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "date-to", @onchange = "disableBtn()" } })
+        </div>
+        <div class="form-group"  style="width:100%">
+            @Html.Label("مكان التنفيذ", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("prison-place", new { htmlAttributes = new { @class = "form-control", @id = "prison-place", @onkeyup = "disableBtn()" } })
+        </div>
+        <div class="form-group">
+            <label class = "control-label" style="width:100%">البند الأوامر</label>
+            <input id="command-number" class="form-control" onkeyup="disableBtn()" type="number" style="float: right; width: 35%; margin-left:10%;" />
+            <input id="command-date" class="form-control" onchange="disableBtn()" type="date" style="width: 55%" />
+        </div>
+        
+        <div class="form-group">
+            <button class="btn btn-success popup-submit-btn" disabled style="font-size:16px;" onclick="Add()">
+                <span class="glyphicon glyphicon-save"></span>
+                حفظ
+            </button>
+        </div>
+    </div>
+</div>

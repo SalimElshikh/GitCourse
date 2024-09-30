@@ -1,0 +1,80 @@
+﻿@using ElecWarSystem.Models
+@{
+    ViewBag.Title = "SickLeaves";
+    Layout = "~/Views/Shared/tmam_gathering_layout.cshtml";
+    Dictionary<String, Dictionary<String, List<SickLeave>>> AllsickLeaves = ViewBag.sickLeaves;
+    int i = 1;
+}
+
+
+<h1 class="title-of-page">
+    الأجازات المرضية لوحدات الحرب الإلكترونیة
+</h1>
+@if (AllsickLeaves.Count > 0)
+{
+
+    foreach (var sickLeaverPerZone in AllsickLeaves)
+    {
+        <div class="col-lg-3 col-md-3"></div>
+        <p class="col-lg-6 col-md-6" id="zone-text">@String.Format($"وحدات فى نطاق {sickLeaverPerZone.Key}") </p>
+
+        <table class="table table-bordered table-review">
+            <tr class="table-review-baseeLine">
+                <th>م</th>
+                <th>الوحدة</th>
+                <th>الرتبة / الدرجة</th>
+                <th>الإسم </th>
+                <th>المستشفى</th>
+                <th>تاريخ دخول المستشفى</th>
+                <th>التشخيص</th>
+                <th>بدء الأجازة</th>
+                <th>عودة الأجازة</th>
+            </tr>
+            <tbody>
+
+                @foreach (var sickLeavePerUnit in sickLeaverPerZone.Value)
+                {
+                    int j = 0;
+                    string padding = $"{Math.Round((37.5 * sickLeavePerUnit.Value.Count) / 2) - 15}px";
+                    foreach (var sickLeave in sickLeavePerUnit.Value)
+                    {
+                        <tr>
+                            <td class="aribiano">@(i++)</td>
+                            @if (j == 0)
+                            {
+                                <td rowspan="@sickLeavePerUnit.Value.Count" style="font-weight: bold; padding-top: @padding;"  class="aribiano">
+                                    @sickLeavePerUnit.Key
+                                </td>
+                            }
+                            <td>@sickLeave.SickLeaveDetail.Person.Rank.RankName</td>
+                            <td>@sickLeave.SickLeaveDetail.Person.FullName</td>
+                            <td class="aribiano">@sickLeave.SickLeaveDetail.Hospital</td>
+                            <td class="aribiano">@sickLeave.SickLeaveDetail.HospitalDate.ToString("yyyy-MM-dd")</td>
+                            <td class="aribiano">@sickLeave.SickLeaveDetail.Diagnosis</td>
+                            <td class="aribiano" >@sickLeave.SickLeaveDetail.DateFrom.ToString("yyyy-MM-dd")</td>
+                            <td class="aribiano">@sickLeave.SickLeaveDetail.DateTo.ToString("yyyy-MM-dd")</td>
+                        </tr>
+                        j++;
+                    }
+
+                }
+            </tbody>
+        </table>
+
+    }
+    <div class="col-lg-3 col-md-3">
+        @Html.ActionLink("Export as a Pdf", actionName: "SickLeavesReport", controllerName: "TmamGatheringReports", routeValues: null, htmlAttributes: new { @class = "btn btn-primary btn-block" });
+    </div>
+}
+else
+{
+    <div class="col-lg-3 col-md-3"></div>
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <h2 style="text-align:center">لم يوجد أجازات مرضية حتى الآن !!</h2>
+        <img src="~/Images/page.png" />
+    </div>
+    <div class="col-lg-3 col-md-3"></div>
+}
+
+
+

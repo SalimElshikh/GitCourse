@@ -1,0 +1,66 @@
+﻿@using ElecWarSystem.Models
+@{
+    ViewBag.Title = "Hospital";
+    Layout = "~/Views/Shared/tmam_gathering_layout.cshtml";
+    Dictionary<String, Dictionary<String, List<Hospital>>> AllHospitals = ViewBag.Hospitals;
+    int i = 1;
+}
+
+<h1 class="title-of-page">
+    الضباط و الأفراد المحجوزين بالمستشفيات العسكرية لوحدات الحرب الإلكترونیة
+</h1>
+@if (AllHospitals.Count > 0)
+{
+    foreach (var HospitalrPerZone in AllHospitals)
+    {
+        <h3 style="text-align:center">@String.Format("وحدات فى نطاق {0}", HospitalrPerZone.Key) </h3>
+        <table class="table table-bordered table-review">
+            <tr class="table-review-baseeLine">
+                <th>م</th>
+                <th>الوحدة</th>
+                <th>الرتبة / الدرجة</th>
+                <th>الإسم </th>
+                <th>المستشفى</th>
+                <th>تاريخ دخول المستشفى</th>
+                <th>التشخيص الطبى</th>
+                <th>التوصيات الممنوحة</th>
+            </tr>
+            <tbody>
+                @foreach (var HospitalPerUnit in HospitalrPerZone.Value)
+                {
+                    int j = 0;
+                    string padding = $"{Math.Round((37.5 * HospitalPerUnit.Value.Count) / 2) - 15}px";
+                    foreach (var hospital in HospitalPerUnit.Value)
+                    {
+                        <tr>
+                            <td>@(i++)</td>
+                            @if (j == 0)
+                            {
+                                <td rowspan="@HospitalPerUnit.Value.Count" style="font-weight:bold; padding-top:@padding;">
+                                    @HospitalPerUnit.Key
+                                </td>
+                            }
+                            <td>@hospital.HospitalDetails.Person.Rank.RankName</td>
+                            <td>@hospital.HospitalDetails.Person.FullName</td>
+                            <td>@hospital.HospitalDetails.Hospital</td>
+                            <td>@hospital.HospitalDetails.DateFrom.ToString("yyyy-MM-dd")</td>
+                            <td>@hospital.HospitalDetails.Diagnosis</td>
+                            <td>@hospital.HospitalDetails.Recommendations</td>
+                        </tr>
+                        j++;
+                    }
+
+                }
+            </tbody>
+        </table>
+    }
+}
+else
+{
+    <div class="col-lg-3 col-md-3"></div>
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <h2 style="text-align:center">لم يوجد عرض مستشفيات حتى الآن !!</h2>
+        <img src="~/Images/page.png" />
+    </div>
+}
+

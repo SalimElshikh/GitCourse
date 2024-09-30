@@ -1,0 +1,73 @@
+﻿@using ElecWarSystem.Models
+@{
+    ViewBag.Title = "Officers";
+    Layout = "~/Views/Shared/tmam_gathering_layout.cshtml";
+    Dictionary<String, List<TmamDetail>> zoneUnitsList = ViewBag.ZoneUnitsTmam;
+
+}
+<script src="~/Scripts/htmlToPdf/html2pdf.bundle.min.js"></script>
+<div id="report-template">
+    <h1 class="title-of-page">
+        تمام ضباط وحدات الحرب الإلكترونیة
+    </h1>
+    <hr />
+    @{
+        int i = 0;
+    }
+    @foreach (var zoneUnits in zoneUnitsList)
+    {
+        <div class="col-lg-3 col-md-3"></div>
+        <p class="col-lg-6 col-md-6" id="zone-text">@String.Format($"وحدات فى نطاق {zoneUnits.Key}") </p>
+
+        <table class="table table-bordered table-review">
+            <tr style="background-color: gray; font-weight: bold;">
+                <th class="th-span" rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">م</th>
+                <th rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">الوحدة</th>
+                <th rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">القوة</th>
+                <th rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">موجود</th>
+                <th rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">خارج</th>
+                <th colspan="9" style=" text-align: center;">خارج الوحدة</th>
+                <th rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">نسبة الخوارج</th>
+            </tr>
+            <tr class="table-review-baseeLine">
+                <th>أجازة</th>
+                <th>أجازة مرضية</th>
+                <th>فرقة</th>
+                <th>مأمورية</th>
+                <th>سجن</th>
+                <th>غياب</th>
+                <th>مستشفى</th>
+                <th>خ البلاد</th>
+                <th>م تد خارجى</th>
+            </tr>
+            @foreach (TmamDetail tmamDetail in zoneUnits.Value)
+            {
+                <tbody style="font-size:12px;" class="aribiano">
+                    <tr>
+                        <td>@tmamDetail.Tmam.Unit.Order</td>
+                        <td>@tmamDetail.Tmam.Unit.UnitName</td>
+                        <td>@tmamDetail.totalPower</td>
+                        <td>@tmamDetail.GetExisting()</td>
+                        <td>@tmamDetail.GetOutting()</td>
+                        <td>@tmamDetail.vacation</td>
+                        <td>@tmamDetail.sickLeave</td>
+                        <td>@tmamDetail.course</td>
+                        <td>@tmamDetail.errand</td>
+                        <td>@tmamDetail.prison</td>
+                        <td>@tmamDetail.absence</td>
+                        <td>@tmamDetail.hospital</td>
+                        <td>@tmamDetail.outOfCountry</td>
+                        <td>@tmamDetail.outdoorCamp</td>
+                        <td>@tmamDetail.GetOuttingPrecetage() %</td>
+                    </tr>
+                </tbody>
+            }
+        </table>
+        i++;
+    }
+</div>
+<div class="col-lg-3 col-md-3">
+    @Html.ActionLink("Export as a Pdf", actionName: "OfficerTmamReport", controllerName: "TmamGatheringReports", routeValues: null, htmlAttributes: new { @class = "btn btn-primary btn-block" });
+</div>
+
+

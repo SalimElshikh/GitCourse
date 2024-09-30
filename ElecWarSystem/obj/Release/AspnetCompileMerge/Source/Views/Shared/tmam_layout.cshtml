@@ -1,0 +1,84 @@
+﻿@using ElecWarSystem.Models;
+@{
+    Layout = "_Layout.cshtml";
+    var tmamTypeCookie = Request.Cookies["tmam-type"]?.Value ?? "";
+    TmamEnum tmamType = TmamEnum.Exist;
+    if (!tmamTypeCookie.Equals(""))
+    {
+        tmamType = (TmamEnum)int.Parse(tmamTypeCookie);
+    }
+}
+<div>
+    <link rel="stylesheet" href="~/Content/UnitDataEntryStyle.css" />
+    <script src="~/Scripts/TmamScripts/TmamHelper.js"></script>
+
+    <div class="container">
+        <div class="row">
+            @{DateTime todayDate = DateTime.Today.Date.AddDays(1);}
+            <div class="title-div col-lg-12 col-md-12 col-sm-12 col-xs-12" style="height:290px;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                            <img src="~/Images/elecwarIcon2.png" />
+                        </div>
+                        <div class="col-lg-8 col-md-8 col-sm-4 col-xs-4">
+                            <p style="font-size:45px; font-weight:bold;" class="aribiano">@ViewBag.unitName</p>
+                            <p class="aribiano">
+                                إدخال تمام الوحدة عن يوم @todayDate.ToString("dddd الموافق yyyy/MM/dd", new System.Globalization.CultureInfo("ar-AE"))
+                            </p>
+                            <p class="aribiano" id="time" style="font-size:30px; font-weight:bold;">
+                                00:00:00
+                            </p>
+                            <p style="color:red;">الزمن المتبقى لإرسال التمام</p>
+                        </div>
+                        <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                            <img src="~/Images/elecwarIcon2.png" />
+                        </div>
+                    </div>
+                </div>
+                <div id="alertBox"></div>
+            </div>
+            <nav class="hide-after-send" hidden>
+                <ul class="pagination" style="font-size:18px;">
+                    <li class="@(tmamType == TmamEnum.AllTmam ? "active" : "")">
+                        @Html.ActionLink("مراجعة التمام", "Review", "Tmam")
+                    </li>
+                    <li class="@(tmamType == TmamEnum.Camp ? "active" : "")">
+                        @Html.ActionLink("خارج التمركز", "Index", "Camp")
+                    </li>
+                    <li class="@(tmamType == TmamEnum.OutOfCountry ? "active" : "")">
+                        @Html.ActionLink("خارج البلاد", "Index", "OutOfCountry")
+                    </li>
+                    <li class="@(tmamType == TmamEnum.Absence ? "active" : "")">
+                        @Html.ActionLink("غياب", "Index", "Absence")
+                    </li>
+                    <li class="@(tmamType == TmamEnum.Prison ? "active" : "")">
+                        @Html.ActionLink("سجن", "Index", "Prison")
+                    </li>
+                    <li class="@(tmamType == TmamEnum.Errand ? "active" : "")">
+                        @Html.ActionLink("المأموريات", "Index", "Errand")
+                    </li>
+                    <li class="@(tmamType == TmamEnum.Officers ? "active" : "")">
+                        @Html.ActionLink("فرقة", "Index", "Course")
+                    </li>
+                    <li class="@(tmamType == TmamEnum.Hospital ? "active" : "")">
+                        @Html.ActionLink("المستشفى", "Index", "Hospital")
+                    </li>
+                    <li class="@(tmamType == TmamEnum.SickLeave ? "active" : "")">
+                        @Html.ActionLink("أجازة مرضية", "Index", "SickLeave")
+                    </li>
+                    <li class="@(tmamType == TmamEnum.Vacation ? "active" : "")">
+                        @Html.ActionLink("أجازات", "Index", "Vacation")
+                    </li>
+                    <li class="@(tmamType == TmamEnum.OtherRanks ? "active" : "")">
+                        @Html.ActionLink("تمام الدرجات الأخرى", "Index", "Tmam", new { pg = 2 }, null)
+                    </li>
+                    <li class="@(tmamType == TmamEnum.Officers ? "active" : "")">
+                        @Html.ActionLink("تمام الضباط", "Index", "Tmam", new { pg = 1 }, null)
+                    </li>
+                </ul>
+            </nav>
+            @RenderBody()
+        </div>
+    </div>
+</div>

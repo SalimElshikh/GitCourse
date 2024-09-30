@@ -1,0 +1,138 @@
+﻿h1, h2, h3 {
+    margin-right: 15px;
+    color: black;
+}
+
+#ifNoUnits {
+    text-align: center;
+    color: dimgray;
+}
+
+.control-label {
+    color: #464646;
+}
+
+.step {
+    display: none;
+}
+
+    .step.active {
+        display: block;
+    }
+
+button.next-btn {
+    float: right;
+    margin-right: 15px;
+    padding: 10px 30px;
+    border: none;
+    outline: none;
+    background-color: rgb(180,220,255);
+}
+
+
+button.previous-btn {
+    float: left;
+    padding: 10px 30px;
+    border: none;
+    outline: none;
+    background-color: rgb(180,220,255);
+}
+
+body {
+    background-color: #ede7f6;
+    font-family: Roboto,Sans-serif;
+}
+
+.form {
+    margin: auto;
+}
+
+.required {
+    font-size: 15px;
+    color: red;
+}
+
+.title-div {
+    height: 150px;
+    background-color: #FDFEFE;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 15px;
+    border-radius: 8px;
+    border-top: 8px solid #6703c4;
+    text-align: center;
+}
+
+.title-div p {
+    font-size: 16px;
+}
+
+.name-div {
+    background-color: #FDFEFE;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 15px;
+    font-size: 12px;
+}
+
+th, td {
+    text-align: right;
+}
+
+
+.popup {
+    position: fixed;
+    top: -150%;
+    left: 50%;
+    opacity: 0;
+    transform: translate(-50%,-50%) scale(1.25);
+    width: 380px;
+    padding: 20px 30px;
+    background: #fff;
+    box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    transition: top 0ms ease-in-out 200ms, opacity 200ms ease-in-out 0ms, transform 200ms ease-in-out 0ms;
+    font-size: 14px;
+}
+
+.popup.act {
+    top: 55%;
+    opacity: 1;
+    transform: translate(-50%,-50%) scale(1);
+    transition: top 0ms ease-in-out 0ms, opacity 200ms ease-in-out 0ms, transform 200ms ease-in-out 0ms;
+}
+
+.popup .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 15px;
+    height: 15px;
+    background-color: #888;
+    color: #eee;
+    text-align: center;
+    line-height: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.popup .form h3 {
+    text-align: center;
+    color: #222;
+}
+
+.disable-pg {
+    pointer-events: none;
+    opacity: 0.6;
+}
+.table-review{
+    background-color:white;
+}
+.con-label {
+    font-size: 25px;
+    color: #646464;
+    padding-right: 15px;
+}
+.con-div {
+    padding-right: 20px;
+}

@@ -1,0 +1,79 @@
+﻿@model IEnumerable<ElecWarSystem.Models.Email>
+
+<script type="text/javascript" src="~/Scripts/EmailsScript.js"></script>
+
+@{
+    int userId = ViewBag.UserId;
+}
+
+<div style="background-color:transparent">
+    <div class="container mt-4 mb-4">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                <button type="submit" class="btn btn-block btn-default" id="exportBtn" onclick="loadExportedEmails(true)" style="font-size: 18px;">
+                    صادر
+                    <span class="glyphicon glyphicon-export"></span>
+                </button>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                <button type="submit" class="btn btn-block btn-primary" id="importBtn" style="font-size: 18px;" onclick="loadExportedEmails(false)">
+                    وارد
+                    <span class="glyphicon glyphicon-import"></span>
+                    @if (ViewBag.unReadCount > 0)
+                    {
+                        <span class="badge" style="background-color:red; color:white;">@ViewBag.unReadCount</span>
+                    }
+                </button>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-0 col-xs-0"></div>
+
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <a class="btn btn-block  btn-success" href="@Url.Action("Create", "Email")" style="font-size: 18px;">
+                    إنشاء بريد
+                    <span class="glyphicon glyphicon-pencil"></span>
+                </a>
+            </div>
+        </div>
+
+        <div class="container mt-4 p-3 header-item" id="emailsListHeader">
+            <div class="row">
+                <div class="col-lg-1 col-md-1 col-sm-1">
+                    هام
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                    المرسل
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    الموضوع
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-2">
+                    الوقت
+                </div>
+            </div>
+        </div>
+
+        <div id="EmailsDiv">
+            @foreach (var item in Model)
+            {
+                string fontStyle = (item.Recievers.FirstOrDefault(rec => rec.RecieverID == userId).Readed) ? "normal" : "bold";
+                bool star = item.Recievers.FirstOrDefault(rec => rec.RecieverID == userId).Starred;
+                <div class="container mt-2 p-3 email-item">
+                    <div class="row" style="font-weight:@fontStyle;">
+                        <div class="col-lg-1 col-md-1 col-sm-1" onclick="StarEmail(@item.ID)">
+                            @Html.CheckBoxFor(model => item.Recievers.FirstOrDefault(rec => rec.RecieverID == userId).Starred)
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-3" onclick="openDetailsEmail(@item.ID)">
+                            @Html.DisplayFor(modelItem => item.Sender.UnitName)
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6" onclick="openDetailsEmail(@item.ID)">
+                            @String.Format("{0} - {1}", @Html.DisplayFor(modelItem => item.Subject), @Html.DisplayFor(modelItem => item.EmailText))
+                        </div>
+                        <div class="col-lg-2 col-md-2 col-sm-2" onclick="openDetailsEmail(@item.ID)">
+                            @item.SendDateTime.ToString("yyyy-MM-dd")
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

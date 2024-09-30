@@ -1,0 +1,93 @@
+﻿<script src="~/Scripts/TmamScripts/absence-crud.js"></script>
+@using ElecWarSystem.Models
+@{
+    int j = 1;
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/tmam_layout.cshtml";
+}
+<div class="container">
+    <div class="row">
+        <h2>الأفراد الغياب</h2>
+        <p id="absence-counter" style="margin:10px; font-size:18px;">@ViewBag.EnteredAbsences / @ViewBag.TotalAbsences</p>
+        <div class="name-div col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="container">
+                <div class="row">
+                    <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <button id="add-absence-btn" class="btn btn-primary" style="font-size:16px;" onclick="openAbsencePopup()">
+                            <span class="glyphicon glyphicon-plus"></span>
+                            إضافة
+                        </button>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <table class="table table-bordered" id="absence-table">
+                            <tr>
+                                <th>م</th>
+                                <th>الرتبة / الدرجة</th>
+                                <th>الإسم </th>
+                                <th>التاريخ الغياب</th>
+                                <th>دفعة الغياب</th>
+                                <th colspan="2">بند الأوامر</th>
+                                <th></th>
+                            </tr>
+                            <tbody style="font-size:14px;">
+                                @foreach (Absence absence in ViewBag.absencesList)
+                                {
+                                    <tr>
+                                        <td>@j</td>
+                                        <td>@absence.AbsenceDetail.Person.Rank.RankName</td>
+                                        <td>@absence.AbsenceDetail.Person.FullName</td>
+                                        <td>@absence.AbsenceDetail.DateFrom.ToString("yyyy-MM-dd")</td>
+                                        <td>@absence.AbsenceDetail.AbsenceTimes</td>
+                                        <td>@absence.AbsenceDetail.commandItem.Number</td>
+                                        <td>@absence.AbsenceDetail.commandItem.Date.ToString("yyyy-MM-dd")</td>
+                                        <td>
+                                            <button class="btn btn-danger" onclick="deleteAbsence(@absence.ID)">
+                                                حذف
+                                                <span class="glyphicon glyphicon-remove"></span>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                    j++;
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="popup absence-popup">
+    <div class="close-btn" onclick="closePop()">&times;</div>
+    <div class="form">
+        <div class="form-group" style="width: 30%; float: right;">
+            @Html.Label("الرتبة/الدرجة", htmlAttributes: new { @class = "control-label" })
+            @Html.DropDownList("person-rank", new SelectList(ViewBag.ranks, "ID", "RankName"), new { @class = "form-control", @id = "person-rank", @onchange = "UpdatePersonComboBox()" })
+        </div>
+        <div class="form-group" style="width:60%; float:right; margin-right:10%">
+            @Html.Label("الإسم", htmlAttributes: new { @class = "control-label" })
+            <select name="person-name" class="form-control" id="person-name" onchange="disableBtn()">
+                <option></option>
+            </select>
+        </div>
+        <div class="form-group" style="width: 60%; float: right;">
+            @Html.Label("التاريخ الغياب", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("date-from", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "date-from", @onchange = "disableBtn()" } })
+        </div>
+        <div class="form-group" style="width: 30%; float: right; margin-right: 10%">
+            @Html.Label("دفعة الغياب", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("absence-times", new { htmlAttributes = new { @class = "form-control", @type = "number", @id = "absence-times", @onkeyup = "disableBtn()" } })
+        </div>
+        <div class="form-group">
+            <label class="control-label" style="width:100%">البند الأوامر</label>
+            <input id="command-number" class="form-control" onkeyup="disableBtn()" type="number" style="float: right; width: 35%; margin-left:10%;" />
+            <input id="command-date" class="form-control" onchange="disableBtn()" type="date" style="width: 55%" />
+        </div>
+        <div class="form-group">
+            <button class="btn btn-success popup-submit-btn" disabled style="font-size:16px;" onclick="Add()">
+                <span class="glyphicon glyphicon-save"></span>
+                حفظ
+            </button>
+        </div>
+    </div>
+</div>

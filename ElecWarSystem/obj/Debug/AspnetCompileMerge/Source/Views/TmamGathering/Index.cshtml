@@ -1,0 +1,60 @@
+﻿@using ElecWarSystem.Models
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<LeadershipTmam> leadershipTmams = ViewBag.leadershipTmams;
+}
+
+<link rel="stylesheet" href="~/Content/UnitDataEntryStyle.css" />
+
+<h2>تمام جميع وحدات الحرب الإلكترونية</h2>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <table class="table table-bordered table-review" style="border:5px double black;">
+                
+                    <tr style="background-color:gray;"> 
+                        <th rowspan="2" style=" text-align: center;padding-top: 25px;">الوحدة</th>
+                        <th colspan="2" style="text-align: center;">قيادة الوحدة</th>
+                        <th colspan="2" style="text-align: center;">الكتيبة الأولى</th>
+                        <th colspan="2" style="text-align: center;">الكتيبة الثانية</th>
+                        <th colspan="2" style="text-align: center;">الكتيبة الثالثة</th>
+                        <th colspan="2" style="text-align: center;">منوب عمليات</th>
+                        <th rowspan="2" style=" text-align: center;padding-top: 25px;">ملاحظات</th>
+                    </tr>
+                    <tr style="border-block-end:5px double black;background-color:gray">
+                        <th style="text-align: center;">القائد</th>
+                        <th style="text-align: center;">ر.ع</th>
+                        <th style="text-align: center;">قائد ك1</th>
+                        <th style="text-align: center;">ر.ع ك1</th>
+                        <th style="text-align: center;">قائد ك2</th>
+                        <th style="text-align: center;">ر.ع ك2</th>
+                        <th style="text-align: center;">قائد ك3</th>
+                        <th style="text-align: center;">ر.ع ك3</th>
+                        <th style="text-align: center;">الرتبة</th>
+                        <th style="text-align: center;">الإسم</th>
+                    </tr>
+                    <tbody style="font-size:14px;">
+                        @foreach (LeadershipTmam leadershipTmam in leadershipTmams)
+                        {
+                            <tr>
+                                <td style="font-weight:bold;">@leadershipTmam.UnitName</td>
+                                <td>@leadershipTmam.unitCommandor</td>
+                                <td>@leadershipTmam.opChief</td>
+                                <td>@leadershipTmam.SmallUnit1UC</td>
+                                <td>@leadershipTmam.SmallUnit1UOC</td>
+                                <td>@leadershipTmam.SmallUnit2UC</td>
+                                <td>@leadershipTmam.SmallUnit2UOC</td>
+                                <td>@leadershipTmam.SmallUnit3UC</td>
+                                <td>@leadershipTmam.SmallUnit3UOC</td>
+                                <td>@leadershipTmam.Rank</td>
+                                <td>@leadershipTmam.Name</td>
+                                <td>@leadershipTmam.Notes</td>
+                            </tr>
+                        }
+
+                    </tbody>
+            </table>
+        </div>
+    </div>
+</div>

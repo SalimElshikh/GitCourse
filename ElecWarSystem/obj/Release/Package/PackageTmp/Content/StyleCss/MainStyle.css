@@ -1,0 +1,92 @@
+﻿:root {
+    --background: #777;
+    --text: #E0E0E0;
+    --alarm: #ffc107;
+    --header: #004896;
+    --background2: #858585;
+}
+.custom-container {
+    background-color: #cfcfcf; /* لون الخلفية الأبيض */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); /* إضافة ظل خفيف */
+    border-radius: 15px; /* حدود مستديرة لإعطاء مظهر ناعم */
+    padding: 20px; /* إضافة مساحة داخلية لتجنب تلاصق المحتوى */
+    transition: transform 0.3s ease; /* تأثير التغيير عند التحريك */
+}
+
+    .custom-container:hover {
+        transform: translateY(-5px); /* حركة صغيرة عند التحويم */
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15); /* زيادة الظل عند التحويم */
+    }
+
+    /* تحسين الحواف والتصميم الجمالي لعناصر أخرى */
+    .custom-container h2 {
+        color: rgba(0, 0, 0); /* لون أزرق للمزيد من الوضوح */
+        font-weight: bold; /* تعزيز سمك الخط */
+        text-transform: uppercase; /* جعل النص بأحرف كبيرة */
+    }
+
+    .custom-container .form-group {
+        margin-bottom: 1.5rem; /* إضافة مساحة بين الحقول */
+    }
+
+    .custom-container .form-control {
+        border-radius: 10px; /* حدود مستديرة للحقول */
+        border: 1px solid #ced4da; /* حدود خفيفة */
+        box-shadow: none; /* إزالة الظلال الافتراضية */
+        transition: all 0.2s ease-in-out;
+    }
+
+        .custom-container .form-control:focus {
+            box-shadow: 0 0 8px rgba(0, 123, 255, 0.25); /* ظل خفيف عند التركيز */
+            border-color: #007bff; /* تغيير لون الحدود عند التركيز */
+        }
+
+    .custom-container button {
+        background: linear-gradient(45deg, #007bff, #00c6ff); /* تدرج لوني للأزرار */
+        color: #fff; /* لون النص الأبيض */
+        border: none; /* إزالة الحدود */
+        border-radius: 25px; /* أزرار مستديرة */
+        padding: 10px 20px; /* مساحة داخلية للأزرار */
+        transition: background 0.3s ease-in-out;
+    }
+
+        .custom-container button:hover {
+            background: linear-gradient(45deg, #0056b3, #00a2ff); /* تدرج مختلف عند التحويم */
+        }
+li.nav-item {
+    padding-left: .8rem;
+}
+/* تحسين خلفية شريط التنقل */
+nav.navbar {
+    background: linear-gradient(135deg, #0062cc, #004085);
+}
+
+/* تأثيرات التحويم على الروابط */
+.nav-link {
+    color: #ffffff !important;
+    transition: color 0.3s, background-color 0.3s;
+}
+
+    .nav-link:hover {
+        color: #ffc107 !important;
+        background-color: rgba(255, 255, 255, 0.1);
+        border-radius: 5px;
+    }
+
+/* زر تسجيل الخروج */
+.btn-danger {
+    background-color: #dc3545;
+    border: none;
+    transition: background-color 0.3s;
+}
+
+    .btn-danger:hover {
+        background-color: #c82333;
+    }
+
+/* تخصيص اسم المستخدم */
+.navbar-text {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #ffffff;
+}

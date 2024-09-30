@@ -1,0 +1,124 @@
+﻿@model ElecWarSystem.Models.Email
+@using ElecWarSystem.Models
+@using ElecWarSystem.ViewModel
+@{
+    ViewBag.Title = "Details";
+}
+<link rel="stylesheet" href="~/Content/EmailListStyle.css" />
+<script type="text/javascript" src="~/Scripts/EmailsScript.js"></script>
+<div class="container">
+    <div class="row">
+        <div>
+            <h2 style="margin:10px 0px;">@Model.Subject</h2>
+            <h4 style="float: left; margin: 0px;">@Model.SendDateTime.ToString("dd MMMM yyyy")</h4>
+        </div>
+    </div>
+</div>
+
+<hr />
+<div>
+    <div class="form-horizontal right">
+
+        <div class="form-group">
+            <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5"></div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                @Html.TextAreaFor(model => model.EmailText, new { @class = "form-control", @rows = "6", @readonly = "readonly", @style = "background-color:White; font-size:16px;" })
+
+                @Html.ValidationMessageFor(model => model.EmailText, "", new { @class = "text-danger" })
+            </div>
+            @Html.Label("النص", htmlAttributes: new { @class = "control-label col-lg-1 col-md-1  col-sm-1 col-xs-1" })
+        </div>
+        <div class="form-group">
+            <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5"></div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <table class="table table-bordered" style="background-color:white;">
+                    <tr style="background-color:darkseagreen; text-align:right">
+                        <th>م</th>
+                        <th></th>
+                        <th>إسم الملف</th>
+                        <th>تحميل</th>
+                    </tr>
+                    @{
+                        int i = 1;
+                    }
+
+                    @foreach (var item in Model.Documents)
+                    {
+                        string imageIcon = EmailUtilies.chooseFileIcon(item.FileExtension);
+                        <tr>
+                            <td>
+                                @(i++)
+                            </td>
+                            <td>
+                                <img style="height: 30px; width: 30px;" src="@Url.Content(imageIcon)" />
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.FileName)
+                            </td>
+                            <td>
+                                <button style="background-color:transparent; border: 0px;" onclick="DownloadFile(@item.ID)">
+                                    <span class="glyphicon glyphicon-download-alt"></span>
+                                    تنزيل
+                                </button>
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+            </div>
+            @Html.Label("الملف/ات", htmlAttributes: new { @class = "control-label col-lg-1 col-md-1  col-sm-1 col-xs-1" })
+        </div>
+        @if (int.Parse(Request.Cookies["userID"].Value) == Model.SenderUserID)
+        {
+            <div class="form-group">
+                <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5"></div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                    <table class="table table-bordered" style="background-color:white;">
+                        <tr style="background-color:darkseagreen">
+                            <th>م</th>
+                            <th>الوحدة</th>
+                            <th>مشاهدة</th>
+                            <th>هام</th>
+                        </tr>
+
+                        @{
+                            i = 1;
+                        }
+
+                        @foreach (var item in Model.Recievers)
+                        {
+                            <tr>
+                                <td>
+                                    @(i++)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.RecieverUser.UnitName)
+                                </td>
+                                <td>
+                                    @if (item.Readed)
+                                    {
+                                        <span class="glyphicon glyphicon-check" style="color:darkgreen;"></span>
+                                    }
+                                </td>
+                                <td>
+                                    @if (item.Starred)
+                                    {
+                                        <span class="glyphicon glyphicon-star" style="color: yellow;"></span>
+                                    }
+                                </td>
+                            </tr>
+                        }
+
+                    </table>
+                </div>
+                @Html.Label("المرسل اليهم", htmlAttributes: new { @class = "control-label col-lg-1 col-md-1  col-sm-1 col-xs-1" })
+            </div>
+
+        }
+
+    </div>
+
+</div>
+<p>
+    @Html.ActionLink("عودة للصفحة الرئيسية", "Index")
+</p>

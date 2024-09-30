@@ -1,0 +1,346 @@
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\ElecWarTesting.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\ElecWarTesting.pdb
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\obj\Debug\ElecWarTesting.csproj.AssemblyReference.cache
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\obj\Debug\ElecWarTesting.csproj.CoreCompileInputs.cache
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\obj\Debug\ElecWarTesting.csproj.CopyComplete
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\obj\Debug\ElecWarTesting.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\obj\Debug\ElecWarTesting.pdb
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\ElecWarSystem.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.Optimization.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.Mvc.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itextsharp.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\EntityFramework.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.WebPages.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.Razor.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\ElecWarSystem.pdb
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\ElecWarSystem.dll.config
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.Optimization.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.Mvc.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\EntityFramework.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.WebPages.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.Razor.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\ElecWarTesting.dll.config
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Common.Logging.Core.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Common.Logging.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.barcodes.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.forms.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.html2pdf.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.io.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.kernel.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.layout.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.pdfa.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.sign.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.svg.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Common.Logging.pdb
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Common.Logging.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\Common.Logging.Core.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.barcodes.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.forms.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.html2pdf.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.io.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.kernel.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.layout.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.pdfa.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.sign.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarTesting\bin\Debug\itext.svg.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\ElecWarTesting.dll.config
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\ElecWarTesting.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\ElecWarTesting.pdb
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Common.Logging.Core.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Common.Logging.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\ElecWarSystem.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\EntityFramework.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.barcodes.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.forms.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.html2pdf.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.io.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.kernel.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.layout.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.pdfa.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.sign.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.svg.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.Optimization.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.Mvc.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itextsharp.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.WebPages.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.Razor.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\ElecWarSystem.pdb
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\ElecWarSystem.dll.config
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Common.Logging.pdb
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Common.Logging.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Common.Logging.Core.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\EntityFramework.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.barcodes.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.forms.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.html2pdf.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.io.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.kernel.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.layout.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.pdfa.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.sign.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\itext.svg.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.Optimization.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.Mvc.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.WebPages.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.Razor.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\obj\Debug\ElecWarTesting.csproj.AssemblyReference.cache
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\obj\Debug\ElecWarTesting.csproj.CoreCompileInputs.cache
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\obj\Debug\ElecWarTesting.csproj.CopyComplete
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\obj\Debug\ElecWarTesting.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarTesting\obj\Debug\ElecWarTesting.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ElecWarTesting.dll.config
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ElecWarTesting.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ElecWarTesting.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\BouncyCastle.Crypto.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Common.Logging.Core.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Common.Logging.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ElecWarSystem.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\EntityFramework.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.barcodes.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.forms.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.html2pdf.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.io.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.kernel.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.layout.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.pdfa.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.sign.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.styledxmlparser.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.svg.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.Optimization.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.Mvc.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itextsharp.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.Razor.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\WebGrease.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.WebPages.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.WebPages.Razor.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Antlr3.Runtime.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Newtonsoft.Json.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ElecWarSystem.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ElecWarSystem.dll.config
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\BouncyCastle.Crypto.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Common.Logging.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Common.Logging.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Common.Logging.Core.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Common.Logging.Core.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\EntityFramework.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.barcodes.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.forms.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.html2pdf.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.io.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.kernel.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.layout.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.pdfa.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.sign.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.styledxmlparser.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.svg.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.Optimization.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.Mvc.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.Razor.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.WebPages.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.WebPages.Razor.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Antlr3.Runtime.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Newtonsoft.Json.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\obj\Debug\ElecWarTesting.csproj.AssemblyReference.cache
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\obj\Debug\ElecWarTesting.csproj.CoreCompileInputs.cache
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\obj\Debug\ElecWarT.091D1AFD.Up2Date
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\obj\Debug\ElecWarTesting.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\obj\Debug\ElecWarTesting.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.bouncy-castle-connector.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.commons.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.pdfua.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.Options.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Testing.Platform.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Testing.Platform.MSBuild.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Buffers.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Collections.Immutable.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Memory.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Numerics.Vectors.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Reflection.Metadata.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.ValueTuple.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Win32.Registry.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\BouncyCastle.Cryptography.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.bouncy-castle-connector.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.commons.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itext.pdfua.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.Options.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Testing.Platform.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\Microsoft.Testing.Platform.MSBuild.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Buffers.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Collections.Immutable.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Memory.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Numerics.Vectors.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Reflection.Metadata.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\System.ValueTuple.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\itextsharp.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\BouncyCastle.Cryptography.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarTesting\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll

@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/tmam_layout.cshtml";
+}
+
+<h2>تمام القادة</h2>
+<div class="name-div  col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <div class="container">
+        <div class="row">
+            <h2 class="col-lg-12 col-md-12 col-sm-12 col-xs-12">قائد الوحدة</h2>
+            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                    @Html.Editor("MilID", new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+                @Html.Label("الرقم العسكرى", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2  col-sm-2 col-xs-2" })
+            </div>
+            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                    @Html.DropDownList("RankID", new SelectList(ViewBag.ranks, "ID", "RankName"), new { @class = "form-control" })
+                </div>
+                @Html.Label("الرتبة", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2  col-sm-2 col-xs-2" })
+            </div>
+            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                    @Html.Editor("FullName", new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+                @Html.Label("الإسم", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2  col-sm-2 col-xs-2" })
+            </div>
+        </div>
+    </div>
+</div>
+    <hr />
+    <h2>منوب عمليات</h2>
+    <div>
+        <div class="form-group" style="width: 30%; float: right;">
+            @Html.Label("الرتبة", htmlAttributes: new { @class = "control-label" })
+            @Html.DropDownList("person-rank", new SelectList(ViewBag.ranks, "ID", "RankName"), new { @class = "form-control", @id = "person-rank", @onchange = "UpdatePersonComboBox()" })
+        </div>
+        <div class="form-group" style="width:60%; float:right; margin-right:10%">
+            @Html.Label("الإسم", htmlAttributes: new { @class = "control-label" })
+            <select name="person-name" class="form-control" id="person-name" onchange="disableBtn()">
+                <option></option>
+            </select>
+        </div>
+    </div>
+    <hr />
+

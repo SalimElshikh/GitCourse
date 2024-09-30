@@ -1,0 +1,1213 @@
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\ElecWarSystem.dll.config
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\ElecWarSystem.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\ElecWarSystem.pdb
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\csc.exe
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\csc.exe.config
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\csc.rsp
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\csi.exe
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\csi.rsp
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\vbc.exe
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\vbc.exe.config
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\vbc.rsp
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Antlr3.Runtime.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\EntityFramework.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Newtonsoft.Json.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.Helpers.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.Mvc.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.Optimization.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.Razor.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.WebPages.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\WebGrease.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\EntityFramework.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.Helpers.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.Mvc.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.Optimization.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.Razor.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.WebPages.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Newtonsoft.Json.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\obj\Release\ElecWarSystem.csproj.AssemblyReference.cache
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.hospital.resources
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\obj\Release\ElecWarSystem.csproj.GenerateResource.cache
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CoreCompileInputs.cache
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CopyComplete
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\obj\Release\ElecWarSystem.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\obj\Release\ElecWarSystem.pdb
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.db1.resources
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Common.Logging.Core.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Common.Logging.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.barcodes.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.forms.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.html2pdf.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.io.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.kernel.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.layout.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.pdfa.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.sign.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.styledxmlparser.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.svg.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itextsharp.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Common.Logging.pdb
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Common.Logging.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Common.Logging.Core.pdb
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Common.Logging.Core.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.barcodes.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.forms.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.html2pdf.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.io.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.kernel.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.layout.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.pdfa.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.sign.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.styledxmlparser.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\itext.svg.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Maro\Mario\ElecWarSystem\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.connectivity.resources
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\ElecWarSystem.dll.config
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\ElecWarSystem.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\ElecWarSystem.pdb
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\csc.exe
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\csc.exe.config
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\csc.rsp
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\csi.exe
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\csi.rsp
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\vbc.exe
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\vbc.exe.config
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\vbc.rsp
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Antlr3.Runtime.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.Core.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\EntityFramework.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.barcodes.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.forms.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.html2pdf.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.io.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.kernel.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.layout.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.pdfa.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.sign.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.styledxmlparser.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.svg.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itextsharp.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Newtonsoft.Json.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Helpers.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Mvc.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Optimization.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Razor.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\WebGrease.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.pdb
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.Core.pdb
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.Core.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\EntityFramework.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.barcodes.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.forms.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.html2pdf.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.io.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.kernel.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.layout.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.pdfa.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.sign.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.styledxmlparser.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.svg.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Helpers.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Mvc.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Optimization.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Razor.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Newtonsoft.Json.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.AssemblyReference.cache
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.hospital.resources
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.db1.resources
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.connectivity.resources
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.OutOfCountry.resources
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Camp.resources
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.GenerateResource.cache
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CoreCompileInputs.cache
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CopyComplete
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.dll
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.pdb
+C:\Users\Maro\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.timeSended.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\ElecWarSystem.dll.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\ElecWarSystem.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\ElecWarSystem.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\csc.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\csc.exe.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\csc.rsp
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\csi.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\csi.rsp
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.AppContext.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\vbc.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\vbc.exe.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\vbc.rsp
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Antlr3.Runtime.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\BouncyCastle.Crypto.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.Core.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\EntityFramework.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\EntityFramework.SqlServer.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.barcodes.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.forms.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.html2pdf.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.io.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.kernel.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.layout.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.pdfa.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.sign.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.styledxmlparser.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.svg.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itextsharp.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Newtonsoft.Json.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Helpers.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Mvc.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Optimization.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Razor.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.Razor.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\WebGrease.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.Core.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Common.Logging.Core.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\EntityFramework.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\EntityFramework.SqlServer.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.barcodes.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.forms.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.html2pdf.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.io.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.kernel.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.layout.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.pdfa.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.sign.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.styledxmlparser.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\itext.svg.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Helpers.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Mvc.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Optimization.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.Razor.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\System.Web.WebPages.Razor.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Newtonsoft.Json.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Antlr3.Runtime.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.AssemblyReference.cache
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.hospital.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.db1.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.connectivity.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.OutOfCountry.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Camp.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.timeSended.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.GenerateResource.cache
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CoreCompileInputs.cache
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CopyComplete
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.0 (Beta)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dummy.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\ElecWarSystem.dll.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\ElecWarSystem.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\ElecWarSystem.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\csc.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\csc.exe.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\csc.rsp
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\csi.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\csi.rsp
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\System.AppContext.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\vbc.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\vbc.exe.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\vbc.rsp
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Antlr3.Runtime.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\BouncyCastle.Crypto.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Common.Logging.Core.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Common.Logging.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\EntityFramework.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\EntityFramework.SqlServer.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.barcodes.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.forms.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.html2pdf.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.io.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.kernel.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.layout.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.pdfa.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.sign.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.styledxmlparser.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.svg.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itextsharp.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Newtonsoft.Json.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.Helpers.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.Mvc.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.Optimization.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.Razor.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.WebPages.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.WebPages.Razor.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\WebGrease.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Common.Logging.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Common.Logging.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Common.Logging.Core.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Common.Logging.Core.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\EntityFramework.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\EntityFramework.SqlServer.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.barcodes.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.forms.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.html2pdf.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.io.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.kernel.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.layout.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.pdfa.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.sign.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.styledxmlparser.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\itext.svg.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.Helpers.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.Mvc.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.Optimization.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.Razor.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.WebPages.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\System.Web.WebPages.Razor.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Newtonsoft.Json.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Antlr3.Runtime.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.AssemblyReference.cache
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.hospital.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.db1.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.connectivity.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.OutOfCountry.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Camp.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.timeSended.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dummy.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.GenerateResource.cache
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CoreCompileInputs.cache
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CopyComplete
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.escapeTmam.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Angular)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.altCommandor.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll.config
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.pdb
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe.config
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.rsp
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.exe
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.rsp
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe.config
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.rsp
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itextsharp.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\WebGrease.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.pdb
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.pdb
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.AssemblyReference.cache
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.hospital.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.db1.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.connectivity.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.OutOfCountry.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Camp.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.timeSended.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dummy.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.escapeTmam.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.altCommandor.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dump.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Coursedetails.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.UserRoles.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.userIsAdminDelete.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.PersonStatus.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.personState.resources
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.GenerateResource.cache
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CoreCompileInputs.cache
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CopyComplete
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.dll
+C:\Users\Maro\Desktop\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.rsp
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.rsp
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.AppContext.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.rsp
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\BouncyCastle.Crypto.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itextsharp.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\WebGrease.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.pdb
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.AssemblyReference.cache
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.hospital.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.db1.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.connectivity.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.OutOfCountry.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Camp.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.timeSended.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dummy.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.escapeTmam.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.altCommandor.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dump.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Coursedetails.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.UserRoles.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.userIsAdminDelete.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.PersonStatus.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.personState.resources
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.GenerateResource.cache
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CoreCompileInputs.cache
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CopyComplete
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.dll
+D:\Mario\Computer Science\Mario\ElecWarSystem Releases\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.pdb
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll.config
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.pdb
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe.config
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.rsp
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.exe
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.rsp
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.AppContext.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe.config
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.rsp
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\BouncyCastle.Crypto.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itextsharp.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\WebGrease.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\BouncyCastle.Crypto.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.pdb
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.pdb
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.xml
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.pdb
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.AssemblyReference.cache
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.hospital.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.db1.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.connectivity.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.OutOfCountry.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Camp.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.timeSended.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dummy.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.escapeTmam.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.altCommandor.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dump.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Coursedetails.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.UserRoles.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.userIsAdminDelete.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.PersonStatus.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.personState.resources
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.GenerateResource.cache
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CoreCompileInputs.cache
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CopyComplete
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.dll
+E:\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.pdb
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll.config
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.pdb
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe.config
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.rsp
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.exe
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.rsp
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.AppContext.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe.config
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.rsp
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\BouncyCastle.Crypto.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itextsharp.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\WebGrease.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\BouncyCastle.Crypto.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.pdb
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.pdb
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.xml
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.pdb
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.AssemblyReference.cache
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.hospital.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.db1.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.connectivity.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.OutOfCountry.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Camp.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.timeSended.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dummy.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.escapeTmam.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.altCommandor.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dump.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Coursedetails.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.UserRoles.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.userIsAdminDelete.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.PersonStatus.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.personState.resources
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.GenerateResource.cache
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CoreCompileInputs.cache
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CopyComplete
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.dll
+E:\Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.pdb
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll.config
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.pdb
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe.config
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.rsp
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.exe
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.rsp
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.AppContext.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe.config
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.rsp
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\BouncyCastle.Crypto.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itextsharp.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\WebGrease.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\BouncyCastle.Crypto.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.pdb
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.pdb
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.xml
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.pdb
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.AssemblyReference.cache
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.hospital.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.db1.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.connectivity.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.OutOfCountry.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Camp.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.timeSended.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dummy.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.escapeTmam.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.altCommandor.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dump.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Coursedetails.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.UserRoles.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.userIsAdminDelete.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.PersonStatus.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.personState.resources
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.GenerateResource.cache
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CoreCompileInputs.cache
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CopyComplete
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.dll
+E:\Source Code For Manzoma\Manzomeet Tmamat\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.pdb
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll.config
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\ElecWarSystem.pdb
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.exe.config
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csc.rsp
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.exe
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\csi.rsp
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.AppContext.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.exe.config
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\vbc.rsp
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\BouncyCastle.Crypto.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itextsharp.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\WebGrease.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\BouncyCastle.Crypto.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.pdb
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.pdb
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Common.Logging.Core.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\EntityFramework.SqlServer.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.barcodes.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.forms.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.html2pdf.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.io.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.kernel.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.layout.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.pdfa.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.sign.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.styledxmlparser.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\itext.svg.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Newtonsoft.Json.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Helpers.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Mvc.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Optimization.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.Razor.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Deployment.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\System.Web.WebPages.Razor.xml
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\bin\Antlr3.Runtime.pdb
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.AssemblyReference.cache
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.hospital.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.db1.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.connectivity.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.OutOfCountry.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Camp.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.timeSended.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dummy.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.escapeTmam.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.altCommandor.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dump.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Coursedetails.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.UserRoles.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.userIsAdminDelete.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.PersonStatus.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.personState.resources
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.GenerateResource.cache
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CoreCompileInputs.cache
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CopyComplete
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.dll
+F:\New folder\work\ElecWarSystem 2.2 (Stable)\ElecWarSystem\obj\Release\ElecWarSystem.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\ElecWarSystem.dll.config
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\ElecWarSystem.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\ElecWarSystem.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\csc.exe
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\csc.exe.config
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\csc.rsp
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\csi.exe
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\csi.exe.config
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\csi.rsp
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\System.Buffers.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\System.Memory.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\System.Numerics.Vectors.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\vbc.exe
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\vbc.exe.config
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\vbc.rsp
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Antlr3.Runtime.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\BouncyCastle.Crypto.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\BouncyCastle.Cryptography.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Common.Logging.Core.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Common.Logging.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\EntityFramework.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\EntityFramework.SqlServer.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.barcodes.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.bouncy-castle-connector.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.commons.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.forms.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.html2pdf.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.io.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.kernel.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.layout.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.pdfa.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.pdfua.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.sign.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.styledxmlparser.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.svg.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itextsharp.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.Logging.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.Options.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.Primitives.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Newtonsoft.Json.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Buffers.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Memory.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Numerics.Vectors.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.ValueTuple.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.Helpers.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.Mvc.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.Optimization.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.Razor.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.WebPages.Deployment.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.WebPages.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.WebPages.Razor.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\WebGrease.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\BouncyCastle.Crypto.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\BouncyCastle.Cryptography.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Common.Logging.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Common.Logging.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Common.Logging.Core.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Common.Logging.Core.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\EntityFramework.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\EntityFramework.SqlServer.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.barcodes.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.bouncy-castle-connector.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.commons.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.forms.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.html2pdf.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.io.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.kernel.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.layout.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.pdfa.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.pdfua.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.sign.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.styledxmlparser.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itext.svg.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\itextsharp.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.Logging.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.Options.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.Extensions.Primitives.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Newtonsoft.Json.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Buffers.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Memory.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Numerics.Vectors.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.ValueTuple.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.Helpers.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.Mvc.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.Razor.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.WebPages.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.WebPages.Deployment.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.WebPages.Razor.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\System.Web.Optimization.xml
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\Antlr3.Runtime.pdb
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.AssemblyReference.cache
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.hospital.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.db1.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.connectivity.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.OutOfCountry.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Camp.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.timeSended.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dummy.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.escapeTmam.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.altCommandor.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.dump.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.Coursedetails.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.UserRoles.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.userIsAdminDelete.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.PersonStatus.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.Migrations.personState.resources
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.GenerateResource.cache
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.csproj.CoreCompileInputs.cache
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarS.356A5F51.Up2Date
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.dll
+C:\GitHupRepo\ElecWarSystem (Last Version)\ElecWarSystem\obj\Release\ElecWarSystem.pdb

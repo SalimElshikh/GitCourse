@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/Content/UnitDataEntryStyle.css" />
+<link rel="stylesheet" href="~/Content/tmamGathering.css" />
+
+<div>
+
+    <script src="~/Scripts/TmamScripts/tmam-gathering-helper.js"></script>
+
+    <div class="container">
+        <div class="row">
+            @{DateTime todayDate = DateTime.Today.Date;}
+            <div class="title-div col-lg-12 col-md-12 col-sm-12 col-xs-12" style="height:150px;">
+                <p style="font-size:50px; font-weight:bold;">تمام جميع وحدات الحرب الإلكترونية</p>
+                <p>
+                    عن يوم @todayDate.ToString("dddd الموافق dd-MM-yyyy", new System.Globalization.CultureInfo("ar-AE"))
+                </p>
+            </div>
+            <nav aria-label="Page navigation">
+                <ul class="pagination" style="font-size:18px;">
+                    <li>
+                        @Html.ActionLink("غياب", "Absence", "TmamGathering")
+                    </li>
+                    <li>
+                        @Html.ActionLink("سجن", "Prison", "TmamGathering")
+                    </li>
+                    <li>
+                        @Html.ActionLink("المأموريات", "Errands", "TmamGathering")
+                    </li>
+                    <li>
+                        @Html.ActionLink("أجازة مرضية", "SickLeaves", "TmamGathering")
+                    </li>
+                    <li>
+                        @Html.ActionLink("المستشفى", "Hospital", "TmamGathering")
+                    </li>
+                    <li>
+                        @Html.ActionLink("تمام الدرجات الأخرى", "NonOfficers", "TmamGathering")
+                    </li>
+                    <li>
+                        @Html.ActionLink("تمام الضباط", "Officers", "TmamGathering")
+                    </li>
+                    <li>
+                        @Html.ActionLink("تمام القادة", "Index", "LeaderShip")
+                    </li>
+                    <li>
+                        @Html.ActionLink("إستلام التمامات", "RecievedTmam", "TmamGathering")
+                    </li>
+                </ul>
+            </nav>
+            @RenderBody()
+        </div>
+    </div>
+
+</div>

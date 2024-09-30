@@ -1,0 +1,59 @@
+﻿@using ElecWarSystem.Models
+@{
+    ViewBag.Title = "Officers";
+    Layout = "~/Views/Shared/tmam_gathering_layout.cshtml";
+    Dictionary<String, List<TmamDetail>> zoneUnitsList = ViewBag.ZoneUnitsTmam;
+
+}
+<h1 class="title-of-page">
+    تمام ضباط وحدات الحرب الإلكترونیة
+</h1>
+<hr/>
+@foreach (var zoneUnits in zoneUnitsList)
+{
+    <table class="table table-bordered table-review">
+        <tr style="background-color: gray; font-weight: bold;">
+            <th class="th-span" rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">م</th>
+            <th rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">الوحدة</th>
+            <th rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">القوة</th>
+            <th rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">موجود</th>
+            <th rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">خارج</th>
+            <th colspan="8" style=" text-align: center;">خارج الوحدة</th>
+            <th rowspan="2" style=" text-align: center; padding-top: 25px; border-block-end: 5px  black;">نسبة الخوارج</th>
+        </tr>
+        <tr class="table-review-baseeLine">
+            <th>أجازة</th> 
+            <th>أجازة مرضية</th>
+            <th>مأمورية</th>
+            <th>سجن</th>
+            <th>غياب</th>
+            <th>مستشفى</th>
+            <th>خ البلاد</th>
+            <th>م تد خارجى</th>
+        </tr>
+        <h3 style="text-align:center">@String.Format("وحدات فى نطاق {0}", zoneUnits.Key) </h3>
+        @foreach (TmamDetail tmamDetail in zoneUnits.Value)
+        {
+            <tbody style="font-size:12px;">
+                <tr>
+                    <td>@tmamDetail.Tmam.Unit.Order</td>
+                    <td>@tmamDetail.Tmam.Unit.UnitName</td>
+                    <td>@tmamDetail.totalPower</td>
+                    <td>@tmamDetail.GetExisting()</td>
+                    <td>@tmamDetail.GetOutting()</td>
+                    <td>@tmamDetail.vacation</td>
+                    <td>@tmamDetail.sickLeave</td>
+                    <td>@tmamDetail.errand</td>
+                    <td>@tmamDetail.prison</td>
+                    <td>@tmamDetail.absence</td>
+                    <td>@tmamDetail.hospital</td>
+                    <td>@tmamDetail.outOfCountry</td>
+                    <td>@tmamDetail.outdoorCamp</td>
+                    <td>@tmamDetail.GetOuttingPrecetage() %</td>
+                </tr>
+            </tbody>
+        }
+    </table>
+
+}
+

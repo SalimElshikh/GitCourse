@@ -1,0 +1,320 @@
+﻿@model  ElecWarSystem.Models.Unit
+@using ElecWarSystem.Models;
+
+<link rel="stylesheet" href="~/Content/UnitDataEntryStyle.css" />
+<script src="~/Scripts/UnitDataEntryHelper.js"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="title-div col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <p style="font-size:50px; font-weight:bold;">@ViewBag.unit.UnitName</p>
+            <p>إدخال بيانات الوحدة</p>
+        </div>
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <li class="@(ViewBag.pg == 4 ? "active" : "")">
+                    @Html.ActionLink("بيانات الجنود", "DataEntry", "Unit", new { pg = 4 }, null)
+                </li>
+                <li class="@(ViewBag.pg == 3 ? "active" : "")">
+                    @Html.ActionLink("بيانات ضباط الصف", "DataEntry", "Unit", new { pg = 3 }, null)
+                </li>
+                <li class="@(ViewBag.pg == 2 ? "active" : "")">
+                    @Html.ActionLink("بيانات الضباط", "DataEntry", "Unit", new { pg = 2 }, null)
+                </li>
+                <li class="@(ViewBag.pg == 5 ? "active" : "")">
+                    @Html.ActionLink("بيانات القادة الوحدة الفرعية", "DataEntry", "Unit", new { pg = 5 }, null)
+                </li>
+                <li class="@(ViewBag.pg == 1 ? "active" : "")">
+                    @Html.ActionLink("بيانات القادة الوحدة", "DataEntry", "Unit", new { pg = 1 }, null)
+                </li>
+            </ul>
+        </nav>
+        @{
+            int j;
+            string[] pgContent = new string[] { "بيانات الضباط", "بيانات ضباط الصف", "بيانات الجنود" };
+            int pg = ViewBag.pg;
+        }
+        @switch (pg)
+        {
+            case 1:
+                <h1>قيادة الوحدة</h1>
+                <div class="name-div  col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    @using (Html.BeginForm("AddUnitLeadership", "Unit", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+                    {
+                        <div class="container">
+                            <div class="row">
+                                <h2 class="col-lg-12 col-md-12 col-sm-12 col-xs-12">قائد الوحدة</h2>
+                                <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                        @Html.EditorFor(model => Model.UnitCommandor.MilID, new { htmlAttributes = new { @class = "form-control" } })
+                                    </div>
+                                    @Html.Label("الرقم العسكرى", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2  col-sm-2 col-xs-2" })
+                                </div>
+                                <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                        @Html.DropDownListFor(model => Model.UnitCommandor.RankID, new SelectList(ViewBag.ranks, "ID", "RankName"), new { @class = "form-control" })
+                                    </div>
+                                    @Html.Label("الرتبة", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2  col-sm-2 col-xs-2" })
+                                </div>
+                                <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                        @Html.EditorFor(model => Model.UnitCommandor.FullName, new { htmlAttributes = new { @class = "form-control" } })
+                                    </div>
+                                    @Html.Label("الإسم", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2  col-sm-2 col-xs-2" })
+                                </div>
+                            </div>
+                        </div>
+                        <hr />
+                        
+                        <div class="container">
+                            <div class="row">
+                                <h2 class="col-lg-12 col-md-12 col-sm-12 col-xs-12">رئيس عمليات الوحدة</h2>
+                                <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                        @Html.EditorFor(model => Model.UnitOperationsChief.MilID, new { htmlAttributes = new { @class = "form-control" } })
+                                    </div>
+                                    @Html.Label("الرقم العسكرى", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2  col-sm-2 col-xs-2" })
+                                </div>
+                                <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                        @Html.DropDownListFor(model => Model.UnitOperationsChief.RankID, new SelectList(ViewBag.ranks, "ID", "RankName"), new { @class = "form-control" })
+                                        @Html.ValidationMessage("UnitOperChRank", "", new { @class = "text-danger" })
+                                    </div>
+                                    @Html.Label("الرتبة", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2  col-sm-2 col-xs-2" })
+                                </div>
+                                <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                        @Html.EditorFor(model => Model.UnitOperationsChief.FullName, new { htmlAttributes = new { @class = "form-control" } })
+                                        @Html.ValidationMessage("UnitOperChName", "", new { @class = "text-danger" })
+                                    </div>
+                                    @Html.Label("الإسم", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2  col-sm-2 col-xs-2" })
+                                </div>
+
+                            </div>
+                        </div>
+                        <hr />
+                        
+                        <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3"></div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <input class="form-control" type="number" value="@Model.SmallUnits.Count" name="SmallUnitCount" max="3" , min="0" />
+                            </div>
+                            @Html.Label("عدد الوحدات الفرعية", htmlAttributes: new { @class = "control-label col-lg-3 col-md-3  col-sm-3 col-xs-3" })
+                        </div>
+                        <hr />
+                        <button type="submit" class="btn btn-success" style="font-size:16px;">
+                            <span class="glyphicon glyphicon-save"></span>
+                            حفظ
+                        </button>
+                    }
+                </div>
+                <hr />
+                break;
+
+            case 5:
+                int SmallUnitCount = (ViewBag.suCount >= 3) ? 3 : ViewBag.suCount;
+                if (TempData["SmallUnitCount"] != null)
+                {
+                    SmallUnitCount = Math.Max(SmallUnitCount, int.Parse(TempData["SmallUnitCount"].ToString()));
+                }
+
+                string[] units = new string[] { "الكتيبة الأولى", "الكتيبة الثانية", "الكتيبة الثالثة" };
+                if (SmallUnitCount == 0)
+                {
+                    <h4 id="ifNoUnits">لا توجد وحدات فرعية</h4>
+                }
+                else
+                {
+                    <div class="name-div  col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        @using (Html.BeginForm("AddSmallUnit", "Unit", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+                        {
+                            for (int i = 0; i < SmallUnitCount; i++)
+                            {
+                                string ucRank = "0", uocRank = "0";
+                                if (i >= Model.SmallUnits.Count)
+                                {
+                                    Model.SmallUnits.Add(new SmallUnit());
+                                }
+                                else
+                                {
+                                    ucRank = Model.SmallUnits[i].UnitCommandor.RankID.ToString();
+                                    uocRank = Model.SmallUnits[i].UnitOperationsChief.RankID.ToString();
+                                }
+                                <h2>قيادة @units[i]</h2>
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="container">
+                                        <div class="row">
+                                            <h3 class="col-lg-12 col-md-12 col-sm-12 col-xs-12">قائد @units[i]</h3>
+                                            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                                    @Html.EditorFor(model => Model.SmallUnits[i].UnitCommandor.MilID, new { htmlAttributes = new { @class = "form-control" } })
+                                                </div>
+                                                @Html.Label("الرقم العسكرى", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2 col-sm-2 col-xs-2" })
+                                            </div>
+                                            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                                    @Html.DropDownListFor(model => Model.SmallUnits[i].UnitCommandor.RankID, new SelectList(ViewBag.ranks, "ID", "RankName", ucRank), new { @class = "form-control" })
+                                                    @Html.ValidationMessageFor(model => Model.SmallUnits[i].UnitCommandor.RankID, "", new { @class = "text-danger" })
+                                                </div>
+                                                @Html.Label("الرتبة", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2  col-sm-2 col-xs-2" })
+                                            </div>
+                                            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                                    @Html.EditorFor(model => Model.SmallUnits[i].UnitCommandor.FullName, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => Model.SmallUnits[i].UnitCommandor.FullName, "", new { @class = "text-danger" })
+                                                </div>
+                                                @Html.Label("الإسم", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2  col-sm-2 col-xs-2" })
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="container">
+                                        <div class="row">
+                                            <h3 class="col-lg-12 col-md-12 col-sm-12 col-xs-12">رئيس عمليات @units[i]</h3>
+                                            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                                    @Html.EditorFor(model => Model.SmallUnits[i].UnitCommandor.MilID, new { htmlAttributes = new { @class = "form-control" } })
+                                                </div>
+                                                @Html.Label("الرقم العسكرى", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2 col-sm-2 col-xs-2" })
+                                            </div>
+                                            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                                    @Html.DropDownListFor(model => Model.SmallUnits[i].UnitOperationsChief.RankID, new SelectList(ViewBag.ranks, "ID", "RankName", uocRank), new { @class = "form-control" })
+                                                    @Html.ValidationMessage("UnitOperChRank" + @i, "", new { @class = "text-danger" })
+                                                </div>
+                                                @Html.Label("الرتبة", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2 col-sm-2 col-xs-2" })
+                                            </div>
+                                            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"></div>
+                                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                                    @Html.EditorFor(model => Model.SmallUnits[i].UnitOperationsChief.FullName, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessage("UnitOperChName" + @i, "", new { @class = "text-danger" })
+                                                </div>
+                                                @Html.Label("الإسم", htmlAttributes: new { @class = "control-label col-lg-2 col-md-2 col-sm-2 col-xs-2" })
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <hr />
+                                </div>
+                            }
+                            <button type="submit" class="btn btn-success" style="font-size:16px;">
+                                <span class="glyphicon glyphicon-save"></span>
+                                حفظ
+                            </button>
+                        }
+                    </div>
+                }
+                break;
+
+            case 2:
+            case 3:
+            case 4:
+                <h2>@pgContent[@ViewBag.pg - 2]</h2>
+                <div class="name-div col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="container">
+                        <div class="row">
+                            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                <button class="btn btn-primary" style="font-size:16px;" onclick="openPersonPopup(@ViewBag.unit.ID,  @ViewBag.pg - 1, false)">
+                                    <span class="glyphicon glyphicon-plus"></span>
+                                    إضافة
+                                </button>
+                            </div>
+                            <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10">
+                                <table class="table table-bordered" id="persons-table">
+                                    <tr>
+                                        <th>م</th>
+                                        <th>الرقم العسكرى</th>
+                                        <th>@(ViewBag.pg == 2 ? "الرتبة" : "الدرجة") </th>
+                                        <th>الإسم</th>
+                                        <th></th>
+                                    </tr>
+                                    @{
+                                        j = 1;
+                                    }
+                                    <tbody>
+                                        @foreach (Person person in ViewBag.Persons)
+                                        {
+                                            <tr>
+                                                <td>@j</td>
+                                                <td>@Html.DisplayFor(modelItem => person.MilID)</td>
+                                                <td>@Html.DisplayFor(modelItem => person.Rank.RankName)</td>
+                                                <td>@Html.DisplayFor(modelItem => person.FullName)</td>
+                                                <td>
+                                                    <button class="btn btn-danger" onclick="updateAfterDelete(@person.ID, @person.Rank.RankType)">
+                                                        حذف
+                                                        <span class="glyphicon glyphicon-remove"></span>
+                                                    </button>
+                                                    <label>|</label>
+                                                    <button class="btn btn-success" onclick="openPersonPopup(@person.ID, @person.Rank.RankType, true)">
+                                                        تعديل
+                                                        <span class="glyphicon glyphicon-edit"></span>
+                                                    </button>
+                                                </td>
+                                            </tr>
+                                            j++;
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                break;
+            default:
+                break;
+        }
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <li class="@(ViewBag.pg == 4 ? "active" : "")">
+                    @Html.ActionLink("بيانات الجنود", "DataEntry", "Unit", new { pg = 4 }, null)
+                </li>
+                <li class="@(ViewBag.pg == 3 ? "active" : "")">
+                    @Html.ActionLink("بيانات ضباط الصف", "DataEntry", "Unit", new { pg = 3 }, null)
+                </li>
+                <li class="@(ViewBag.pg == 2 ? "active" : "")">
+                    @Html.ActionLink("بيانات الضباط", "DataEntry", "Unit", new { pg = 2 }, null)
+                </li>
+                <li class="@(ViewBag.pg == 5 ? "active" : "")">
+                    @Html.ActionLink("بيانات القادة الوحدة الفرعية", "DataEntry", "Unit", new { pg = 5 }, null)
+                </li>
+                <li class="@(ViewBag.pg == 1 ? "active" : "")">
+                    @Html.ActionLink("بيانات القادة الوحدة", "DataEntry", "Unit", new { pg = 1 }, null)
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+
+<div class="popup">
+    <div class="close-btn" onclick="closePop()">&times;</div>
+    <div class="form">
+        <div class="form-group">
+            @Html.Label("الرقم العسكرى", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("person-MilID", new { htmlAttributes = new { @class = "form-control", @id = "person-MilID", @onkeyup = "disableBtn()" } })
+        </div>
+        <div class="form-group">
+            @Html.Label((ViewBag.pg == 2 ? "الرتبة" : "الدرجة"), htmlAttributes: new { @class = "control-label" })
+            @Html.DropDownList("person-rank", new SelectList(ViewBag.ranks, "ID", "RankName"), new { @class = "form-control", @id = "person-rank", @onchange = "disableBtn()" })
+        </div>
+        <div class="form-group">
+            @Html.Label("الإسم", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("person-name", new { htmlAttributes = new { @class = "form-control", @id = "person-name", @onkeyup = "disableBtn()" } })
+        </div>
+        <div class="form-group">
+            <button class="btn btn-success popup-submit-btn" disabled style="font-size:16px;" onclick="savePersonChanges()">
+                <span class="glyphicon glyphicon-save"></span>
+                حفظ
+            </button>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,105 @@
+﻿@using ElecWarSystem.Models
+<script src="~/Scripts/TmamScripts/sick-leave-crud.js"></script>
+@{
+    int j;
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/tmam_layout.cshtml";
+}
+
+<h2>الأجازات المرضية</h2>
+<p id="sick-leave-counter" style="margin:10px; font-size:18px;">@ViewBag.sickLeaveEntered / @ViewBag.sickLeaveTotal</p>
+<div class="name-div col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <div class="container">
+        <div class="row">
+            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <button id="add-sick-leave-btn" class="btn btn-primary" style="font-size:16px;" onclick="openSickLevelPopup()">
+                    <span class="glyphicon glyphicon-plus"></span>
+                    إضافة
+                </button>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <table class="table table-bordered" id="sick-leaves-table">
+                    <tr>
+                        <th>م</th>
+                        <th>الرتبة / الدرجة</th>
+                        <th>الإسم </th>
+                        <th>المستشفى</th>
+                        <th>تاريخ دخول المستشفى</th>
+                        <th>التشخيص</th>
+                        <th>بدء الأجازة</th>
+                        <th>عودة الأجازة</th>
+                        <th></th>
+                    </tr>
+                    @{
+                        j = 1;
+                    }
+                    <tbody style="font-size:14px;">
+                        @foreach (SickLeave sickLeave in ViewBag.SickLeaves)
+                        {
+                            <tr>
+                                <td>@j</td>
+                                <td>@sickLeave.SickLeaveDetail.Person.Rank.RankName</td>
+                                <td>@sickLeave.SickLeaveDetail.Person.FullName</td>
+                                <td>@sickLeave.SickLeaveDetail.Hospital</td>
+                                <td>@sickLeave.SickLeaveDetail.HospitalDate.ToString("yyyy-MM-dd")</td>
+                                <td>@sickLeave.SickLeaveDetail.Diagnosis</td>
+                                <td>@sickLeave.SickLeaveDetail.DateFrom.ToString("yyyy-MM-dd")</td>
+                                <td>@sickLeave.SickLeaveDetail.DateTo.ToString("yyyy-MM-dd")</td>
+                                <td>
+                                    <button class="btn btn-danger timeout-btn" onclick="deleteSickLeave(@sickLeave.ID)">
+                                        حذف
+                                        <span class="glyphicon glyphicon-remove"></span>
+                                    </button>
+                                </td>
+                            </tr>
+                            j++;
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="popup sick-leave-popup">
+    <div class="close-btn" onclick="closePop()">&times;</div>
+    <div class="form">
+        <div class="form-group" style="width: 30%; float: right;">
+            @Html.Label("الرتبة/الدرجة", htmlAttributes: new { @class = "control-label" })
+            @Html.DropDownList("person-rank", new SelectList(ViewBag.ranks, "ID", "RankName"), new { @class = "form-control", @id = "person-rank", @onchange = "UpdatePersonComboBox()" })
+        </div>
+        <div class="form-group" style="width:60%; float:right; margin-right:10%">
+            @Html.Label("الإسم", htmlAttributes: new { @class = "control-label" })
+            <select name="person-name" class="form-control" id="person-name">
+                <option></option>
+            </select>
+        </div>
+        <div class="form-group" style="width: 45%; float: right;">
+            @Html.Label("إسم المستشفى", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("hospital-name", new { htmlAttributes = new { @class = "form-control", @id = "hospital-name", @onkeyup = "disableBtn()" } })
+        </div>
+        <div class="form-group" style="width:45%; float:right; margin-right:10%">
+            @Html.Label("تاريخ دخول المستشفى", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("hospital-date", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "hospital-date", @onchange = "disableBtn()" } })
+        </div>
+        <div class="form-group">
+            @Html.Label("التشحيص", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("diagnosis", new { htmlAttributes = new { @class = "form-control", @id = "diagnosis", @onkeyup = "disableBtn()" } })
+        </div>
+        <div class="form-group" style="width: 45%; float: right;">
+            @Html.Label("تاريخ بدء الأجازة", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("date-from", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "date-from", @onchange = "disableBtn()" } })
+        </div>
+        <div class="form-group" style="width:45%; float:right; margin-right:10%">
+            @Html.Label("تاريخ عودة الأجازة", htmlAttributes: new { @class = "control-label" })
+            @Html.Editor("date-to", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "date-to", @onchange = "disableBtn()" } })
+        </div>
+        <div class="form-group">
+            <button class="btn btn-success popup-submit-btn" disabled style="font-size:16px;" onclick="Add()">
+                <span class="glyphicon glyphicon-save"></span>
+                حفظ
+            </button>
+        </div>
+    </div>
+</div>

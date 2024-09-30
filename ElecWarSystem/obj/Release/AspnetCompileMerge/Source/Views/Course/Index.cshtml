@@ -1,0 +1,106 @@
+﻿<script src="~/Scripts/TmamScripts/course-crud.js"></script>
+@using ElecWarSystem.Models
+@{
+    int j = 1;
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/tmam_layout.cshtml";
+}
+<div ng-app="CourseMod">
+    <div ng-cloak ng-controller="CourseCrud">
+        <div class="container">
+            <div class="row">
+                <h2>{{Name}}</h2>
+
+                <p id="errand-counter" style="margin:10px; font-size:18px;">{{CoursesEntered}} / {{CoursesTotal}}</p>
+
+                <div class="name-div col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="container">
+                        <div class="row">
+                            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                <button id="add-course-btn" class="btn btn-primary" style="font-size:16px;" ng-click="openCoursePopup()">
+                                    <span class="glyphicon glyphicon-plus"></span>
+                                    إضافة
+                                </button>
+                            </div>
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                <table class="table table-bordered" id="errand-table">
+                                    <tr>
+                                        <th>م</th>
+                                        <th>الرتبة / الدرجة</th>
+                                        <th>الإسم </th>
+                                        <th>الفرقة/الدورة</th>
+                                        <th>مكان إنعقاد الفرقة/الدورة</th>
+                                        <th>المدة من</th>
+                                        <th>المدة إلى</th>
+                                        <th colspan="2" style="text-align:center;">بند الأوامر</th>
+                                        <th></th>
+                                    </tr>
+                                    <tr ng-repeat="course in Courses track by $index">
+                                        <td>{{$index + 1}}</td>
+                                        <td>{{course.CourseDetails.Person.Rank.RankName}}</td>
+                                        <td>{{course.CourseDetails.Person.FullName}}</td>
+                                        <td>{{course.CourseDetails.CourseName}}</td>
+                                        <td>{{course.CourseDetails.CoursePlace}}</td>
+                                        <td>{{course.CourseDetails.DateFrom}}</td>
+                                        <td>{{course.CourseDetails.DateTo}}</td>
+                                        <td>{{course.CourseDetails.CommandItem.Number}}</td>
+                                        <td>{{course.CourseDetails.CommandItem.Date | date : yyyy/MM/dd}}</td>
+                                        <td>
+                                            <button class="btn btn-danger" ng-click="delete(course.ID)">
+                                                حذف
+                                                <span class="glyphicon glyphicon-trash"></span>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="popup course-popup">
+            <div class="close-btn" ng-click="closePop()">&times;</div>
+            <div class="form">
+                <div class="form-group" style="width: 30%; float: right;">
+                    @Html.Label("الرتبة/الدرجة", htmlAttributes: new { @class = "control-label" })
+                    @Html.DropDownList("person-rank", new SelectList(ViewBag.ranks, "ID", "RankName"), new { @class = "form-control", @id = "person-rank", @onchange = "UpdatePersonComboBox()" })
+                </div>
+                <div class="form-group" style="width:60%; float:right; margin-right:10%">
+                    @Html.Label("الإسم", htmlAttributes: new { @class = "control-label" })
+                    <select name="person-name" class="form-control" id="person-name" onchange="disableBtn()">
+                        <option></option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    @Html.Label("الفرقة/الدورة", htmlAttributes: new { @class = "control-label" })
+                    @Html.Editor("course-name", new { htmlAttributes = new { @class = "form-control", @id = "course-name", @onkeyup = "validateCourseName()", @maxlength = "25" } })
+                    <label id="course-name-warn" hidden style="color:red; font-size:14px; font-weight:100;" class="aribiano">أقصى طول لإسم الفرقة 25 حرف</label>
+                </div>
+                <div class="form-group">
+                    @Html.Label("مكان إنعقاد الفرقة/الدورة", htmlAttributes: new { @class = "control-label" })
+                    @Html.Editor("course-place", new { htmlAttributes = new { @class = "form-control", @id = "course-place", @onkeyup = "disableBtn()" } })
+                </div>
+                <div class="form-group" style="width: 45%; float: right;">
+                    @Html.Label("المدة من", htmlAttributes: new { @class = "control-label" })
+                    @Html.Editor("date-from", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "date-from", @onchange = "disableBtn()" } })
+                </div>
+                <div class="form-group" style="width:45%; float:right; margin-right:10%">
+                    @Html.Label("المدة إلى", htmlAttributes: new { @class = "control-label" })
+                    @Html.Editor("date-to", new { htmlAttributes = new { @class = "form-control", @type = "date", @id = "date-to", @onchange = "disableBtn()" } })
+                </div>
+                <div class="form-group">
+                    <label class="control-label" style="width:100%">البند الأوامر</label>
+                    <input id="command-number" class="form-control" onkeyup="disableBtn()" type="number" style="float: right; width: 35%; margin-left:10%;" />
+                    <input id="command-date" class="form-control" onchange="disableBtn()" type="date" style="width: 55%" />
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-success popup-submit-btn" disabled style="font-size:16px;" ng-click="Add()">
+                        <span class="glyphicon glyphicon-save"></span>
+                        حفظ
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

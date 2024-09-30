@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHupRepo\\ElecWarSystem (Last Version)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CB409B-3E01-4037-B5D4-44C7BA9AA3FD}|ElecWarSystem\\ElecWarSystem.csproj|c:\\githuprepo\\elecwarsystem (last version)\\elecwarsystem\\scripts\\tmamscripts\\out-of-country-crud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A4CB409B-3E01-4037-B5D4-44C7BA9AA3FD}|ElecWarSystem\\ElecWarSystem.csproj|solutionrelative:elecwarsystem\\scripts\\tmamscripts\\out-of-country-crud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CB409B-3E01-4037-B5D4-44C7BA9AA3FD}|ElecWarSystem\\ElecWarSystem.csproj|c:\\githuprepo\\elecwarsystem (last version)\\elecwarsystem\\views\\outofcountry\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4CB409B-3E01-4037-B5D4-44C7BA9AA3FD}|ElecWarSystem\\ElecWarSystem.csproj|solutionrelative:elecwarsystem\\views\\outofcountry\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "out-of-country-crud.js",
+              "DocumentMoniker": "C:\\GitHupRepo\\ElecWarSystem (Last Version)\\ElecWarSystem\\Scripts\\TmamScripts\\out-of-country-crud.js",
+              "RelativeDocumentMoniker": "ElecWarSystem\\Scripts\\TmamScripts\\out-of-country-crud.js",
+              "ToolTip": "C:\\GitHupRepo\\ElecWarSystem (Last Version)\\ElecWarSystem\\Scripts\\TmamScripts\\out-of-country-crud.js",
+              "RelativeToolTip": "ElecWarSystem\\Scripts\\TmamScripts\\out-of-country-crud.js",
+              "ViewState": "AgIAALwAAAAANjMzM3MswNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T23:16:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\GitHupRepo\\ElecWarSystem (Last Version)\\ElecWarSystem\\Views\\OutOfCountry\\Index.cshtml",
+              "RelativeDocumentMoniker": "ElecWarSystem\\Views\\OutOfCountry\\Index.cshtml",
+              "ToolTip": "C:\\GitHupRepo\\ElecWarSystem (Last Version)\\ElecWarSystem\\Views\\OutOfCountry\\Index.cshtml",
+              "RelativeToolTip": "ElecWarSystem\\Views\\OutOfCountry\\Index.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T23:15:55.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
